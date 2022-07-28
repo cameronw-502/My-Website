@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /site-design.html
+Allow: /502-lawn-care.html
+Allow: /e-commerce.html
+Allow: /a-to-z-technology.html
+Disallow: /ius-design-center.html
+Disallow: /animal-shelter.html
+
